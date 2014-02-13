@@ -1,0 +1,13 @@
+InfoKey: Creator
+InfoValue: Oracle10gR2 AS Reports Services
+InfoKey: Title
+InfoValue: AALPRINT
+InfoKey: Author
+InfoValue: Oracle Reports
+InfoKey: Producer
+InfoValue: Oracle PDF driver
+InfoKey: ModDate
+InfoValue: D:20120223204248
+InfoKey: CreationDate
+InfoValue: D:20120223204248
+NumberOfPages: 650
